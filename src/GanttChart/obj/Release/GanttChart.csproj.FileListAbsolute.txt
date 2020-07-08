@@ -1,0 +1,14 @@
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\bin\Release\GanttChart.dll
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\bin\Release\GanttChart.pdb
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\obj\Release\GanttChart.csprojAssemblyReference.cache
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\obj\Release\GanttChart.Properties.Resources.resources
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\obj\Release\GanttChart.csproj.GenerateResource.cache
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\obj\Release\GanttChart.dll
+E:\MyWorks\Test\GanttPlanner\src\GanttChart\obj\Release\GanttChart.pdb
+E:\MyWorks\Test\GanttChart\src\GanttChart\bin\Release\GanttChart.dll
+E:\MyWorks\Test\GanttChart\src\GanttChart\bin\Release\GanttChart.pdb
+E:\MyWorks\Test\GanttChart\src\GanttChart\obj\Release\GanttChart.csprojAssemblyReference.cache
+E:\MyWorks\Test\GanttChart\src\GanttChart\obj\Release\GanttChart.Properties.Resources.resources
+E:\MyWorks\Test\GanttChart\src\GanttChart\obj\Release\GanttChart.csproj.GenerateResource.cache
+E:\MyWorks\Test\GanttChart\src\GanttChart\obj\Release\GanttChart.dll
+E:\MyWorks\Test\GanttChart\src\GanttChart\obj\Release\GanttChart.pdb
