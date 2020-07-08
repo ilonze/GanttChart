@@ -218,5 +218,12 @@ artifacts/
 *.pdb
 *.nupkg
 .vs
+src/.vs
 .vscode
+src/.vscode
+src/packages
+src/*/bin
+src/*/bin/*
+src/*/obj
+src/*/obj/*
 .svn
